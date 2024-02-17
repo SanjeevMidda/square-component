@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  transition: all 500ms;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100dvh;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.squareContainer {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
